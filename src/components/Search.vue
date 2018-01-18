@@ -34,7 +34,7 @@ export default {
   props: ['search', 'hasResults'],
   data() {
     return {
-      heading: 'Search!',
+      heading: 'Search Recipes',
       keyword: null,
     };
   },
