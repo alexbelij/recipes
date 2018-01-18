@@ -1,6 +1,6 @@
 # RECIPES
 
-> Recipe searching engine build with [Vue.js](https://vuejs.org/) and [Vue.js](https://vuetifyjs.com/)
+> Recipe searching engine build with [Vue.js](https://vuejs.org/) and [Vuetify](https://vuetifyjs.com/)
 
 [See demo here](https://froston.github.io/recipes)
 
